@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ 	<title>CU-NOTE</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+	<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+</head>
+
+<body>
+<header>
+   
+   <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="logo-idea.jpg">
+        <img alt="Brand" src="Main logo.jpg">
+      </a>
+    </div>
+  </div>
+</nav>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      
+      <ul class="nav navbar-nav">
+        <li class="link"><a href="Home page.html">Home</a></li>
+        <li class="link"><a href="about page.html">About</a></li>
+        <li class="link"><a href="The note room.html">The Note Room</a></li>
+      </ul>
+</header>    
+</body>
+    
+<body>
+
+<div class="jumbotron">
+<div class="container">
+  <h1>About CU-Note</h1>
+  <p>This website will allow all coventry university students to keep in contact no matter what course or department you are from.</p>
+  <p>The hope is that students will be more connected than ever, by using this platform to keep in contact with each other.</p>
+  <p>There are some ground rules however:</p>
+      <li>Students must use this for relevant information</li>
+      <li>Students need to make sure that when they submit, they note their course and year as to make sure all viewers understand</li>
+      <li>It would be beneficial if submissions were anonymous</li>
+  
+  <p>_________________________________________________________________</p>
+  <p>Other than that......Happy NOTE-ing </p>
+  <p>Ben Rosser</p>
+  </div>
+</div>
+
+</body>
+
+<footer>
+  <p>Created by: Benjamin Rosser</p>
+  <p>Contact information: <a href="mailto:benrosser2896@gmail.com">
+  benrosser2896@gmail.com</a>.</p>
+</footer>
+
+</html>
